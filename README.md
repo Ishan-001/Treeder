@@ -16,7 +16,12 @@
 - Figma
 - Deep Learning
 
+## Achievements
+- VIT Hack Winner
+- ACM Hacklipse Winner
+- Columbia DivHack Top 20
+
 ## Screenshots
 > ![alt text](https://github.com/Ishan-001/Treeder/blob/master/Capture_treeder.PNG)
-
+> ![alt text](https://github.com/Ishan-001/Treeder/blob/master/screenshots.jpeg)
 
