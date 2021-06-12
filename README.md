@@ -6,7 +6,7 @@
 - Users will be given points called Treedos based on their acts promoting environmental sustainability
 - People can plant trees by spending Treedos
 - Nature enthusiasts can sign up to plant trees all over the world and track the trees planted
-- The result is a community consisting of nature lovers
+- We aim to create a community of genuine nature lovers.
 
 ## Tech Stack
 - Android Studio
